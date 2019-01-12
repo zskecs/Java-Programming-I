@@ -1,0 +1,6 @@
+
+BUILD FAILED
+/home/zsolt/NetBeansProjects/2013-OOProgrammingWithJava-PART1/week5-092.DifferenceDate/nbproject/build-impl.xml:603: The following error occurred while executing this line:
+/home/zsolt/NetBeansProjects/2013-OOProgrammingWithJava-PART1/week5-092.DifferenceDate/nbproject/build-impl.xml:245: Compile failed; see the compiler error output for details.
+
+Total time: 1 minute 14 seconds
